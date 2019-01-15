@@ -5,7 +5,8 @@
 The basic usage of the tool is going to look roughly like this:
 
 
-`$ task
+```
+$ task
 task is a CLI for managing your TODOs.
 
 Usage:
@@ -34,7 +35,8 @@ You have completed the "review talk proposal" task.
 
 $ task list
 You have the following tasks:
-1. some task description`
+1. some task description
+```
 
 
 
