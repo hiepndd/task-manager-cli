@@ -1,5 +1,7 @@
 # task-manager-cli
 
+## OVERVIEW
+
 `task-manager-cli` tool that can be used to manage your TODOs in the terminal.
 
 The basic usage of the tool is going to look roughly like this:
@@ -38,7 +40,7 @@ You have the following tasks:
 1. some task description
 ```
 
-
+## DEMO
 
 `root command`
 
